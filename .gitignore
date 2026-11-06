@@ -1,0 +1,26 @@
+# Личные настройки и токены
+config.json
+config.tmp
+\!tokens/
+*.pem
+*.key
+*.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Project data that may contain real stock or account data
+goods_*.txt
+*.sqlite3
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db

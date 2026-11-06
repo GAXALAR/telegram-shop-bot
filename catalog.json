@@ -1,0 +1,17 @@
+{
+  "win10": {
+    "name": "Ключ Windows 10 Pro",
+    "price": 100,
+    "file": "goods_win10.txt"
+  },
+  "netflix": {
+    "name": "Аккаунт Netflix 1 месяц",
+    "price": 350,
+    "file": "goods_netflix.txt"
+  },
+  "new_test": {
+    "name": "НОВЫЙ ТОВАР ТЕСТ",
+    "price": 1599,
+    "file": "goods_new_test.txt"
+  }
+}
